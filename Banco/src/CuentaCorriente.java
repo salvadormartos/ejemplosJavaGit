@@ -1,5 +1,3 @@
-package Ejercicio_1;
-
 public class CuentaCorriente {
 	String dni;
 	String nombre;
