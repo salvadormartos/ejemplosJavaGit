@@ -5,8 +5,8 @@ public class Main {
 		c.ingreso(1000);
 		c.reintegro(100);
 		c.mostrarInformacion();
-		System.out.println("Puedo sacar 700�: " + c.reintegro(700));
-		System.out.println("Puedo sacar 500�: " + c.reintegro(500));
+		System.out.println("Puedo sacar 700€: " + c.reintegro(700));
+		System.out.println("Puedo sacar 500€: " + c.reintegro(500));
 	}
 	
 }
